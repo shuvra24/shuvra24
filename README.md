@@ -9,12 +9,11 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **BSc in CSE (7th Semester)** — University of Science & Technology Chittagong  
-- ⚡ **Electrical Engineer** with 4+ years of experience  
-- 🧠 Interested in **AI, Deep Learning, Object Detection, and Automation**  
-- 🎨 Professional **Graphic Designer**  
-- 🌱 Currently learning **ML, DL, and Python**  
-- 📫 Contact: **your-email@example.com**
+- 🎓 **BSc in CSE (7th Semester)** — Premier University, Chittagong  
+- ⚡ **WordPress Developer** with 1+ years of experience
+- 🎨 passionate **Data Structure and Algorithm, Problem Solving** 
+- 🌱 Currently Learning  **AI, Deep Learning, ML, and NLP**  
+- 📫 Contact: **shuvraroy21@example.com**
 
 ---
 
