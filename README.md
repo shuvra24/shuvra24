@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techwithanirban/creative-banner/main/banner.png" alt="Creative Banner" />
+  <img src="https://source.unsplash.com/1200x300/?technology,ai"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Shuvra Roy</strong></h1>
