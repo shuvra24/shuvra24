@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shuvra Roy</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techwithanirban/creative-banner/main/banner.png" alt="Creative Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm <strong>Shuvra Roy</strong></h1>
 <h3 align="center">Electrical Engineer • CSE Student • AI Enthusiast • Graphic Designer</h3>
 
 <p align="center">
@@ -9,16 +13,15 @@
 
 ## 🔥 About Me
 - 🎓 **BSc in CSE (7th Semester)** — University of Science & Technology Chittagong  
-- ⚡ **Electrical Engineer** with 4+ years of experience (Installation, Maintenance, Safety)  
-- 🧠 Interested in **AI, deep learning projects, and real-life problem solving**  
-- 🎨 Professional **graphic designer**  
-- 🌱 Currently learning **AI, ML, Data Science, and advanced Python**  
-- 📫 Reach me at: **your-email@example.com**
+- ⚡ **Electrical Engineer** with 4+ years of experience  
+- 🧠 Interested in **AI, Deep Learning, Object Detection, and Automation**  
+- 🎨 Professional **Graphic Designer**  
+- 🌱 Currently learning **ML, DL, and Python**  
+- 📫 Contact: **your-email@example.com**
 
 ---
 
 ## 🚀 Skills & Tools
-
 ### 🔹 Programming Languages
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -37,7 +40,7 @@
 ### 🔹 Electrical Engineering Tools
 - AutoCAD Electrical  
 - Circuit Design  
-- Safety & Supervisory Work (ABC Certified)  
+- Industrial Safety (ABC Certified)
 
 ### 🔹 Others
 <p>
@@ -49,20 +52,7 @@
 
 ---
 
-## 📌 Featured Projects
-### 🔹 AI / ML
-- 🧠 **Classroom Object Detection (CNN + YOLO)** – Automated digital classroom assistant  
-- 📷 **Image Classification Project**  
-- 🤖 **Deep Learning Mini Projects**
-
-### 🔹 Electrical Engineering
-- ⚡ Industrial wiring & safety project documentation  
-- 🏗️ Electrical load calculation & system design  
-
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
@@ -83,10 +73,7 @@
 
 ---
 
-## ✨ Quote of the Day
-> **“The future belongs to those who learn more skills and combine them creatively.”**
-
----
-
-### ⭐ If you like my work, consider giving a star to my repositories!
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
 
