@@ -1,15 +1,3 @@
-<!-- Animated GIF banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Banner Animation" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Shuvra Roy</h1>
-
-<!-- Dynamic stats card or widget -->
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 
 <h1 align="center">Hi 👋, I'm <strong>Shuvra Roy</strong></h1>
 <h3 align="center">Electrical Engineer • CSE Student • AI Enthusiast • Graphic Designer</h3>
