@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Shuvra Roy</strong></h1>
-<h3 align="center">Electrical Engineer • CSE Student • AI Enthusiast • Graphic Designer</h3>
+<h3 align="center">WordPress Developer(imtermediate) • Web Devloper(beginners)  • DSA (intermediate) • AI & Ml Learning  • CSE (Running)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
