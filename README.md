@@ -9,7 +9,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **BSc in CSE (7th Semester)** — Premier University, Chittagong  
+- 🎓 **BSc in CSE** — Premier University, Chittagong  
 - ⚡ **WordPress Developer** with 1+ years of experience
 - 🎨 passionate **Data Structure and Algorithm, Problem Solving** 
 - 🌱 Currently Learning  **AI, Deep Learning, ML, and NLP**  
@@ -33,10 +33,6 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
 </p>
 
-### 🔹 Electrical Engineering Tools
-- AutoCAD Electrical  
-- Circuit Design  
-- Industrial Safety (ABC Certified)
 
 ### 🔹 Others
 <p>
